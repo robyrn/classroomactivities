@@ -1,0 +1,49 @@
+nav {
+    background-color: lightgoldenrodyellow
+    height: 100px;
+}
+.menu-item {
+    background-color: saddlebrown
+    color:white;
+    display: inline-block;
+    height: 75px;
+    width: 100px; 
+    padding: 10px;
+    text-align: center; 
+
+}
+
+.content {
+    height: 500px;
+}
+
+.sidebar {
+    width:29%;
+    background-color: blanchedalmond;
+    float: left;
+    height: 500px; 
+    text-align: center;
+    paddint-top:50px;
+}
+
+.pet-name {
+    .font-size:24px; 
+}
+
+.main-photo {
+    width: 200px;
+}
+
+.details {
+    width:70%;
+    background-color: wheat;
+    height: 500px;
+    padding: 20px;
+    float: left;
+    width:69%;
+}
+
+.detail-mainphoto {
+    float: left;
+    margin-right:20px
+}
